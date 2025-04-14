@@ -3,7 +3,8 @@
 - 🔭 Procurando uma vaga de Back-End
 - 🎓 Graduando em Ciências da Computação (5/8 Semestre)
 - 🌱 Estudando Java, Spring, SQL e Docker
-- 💡 Possuo conhecimentos em HTML, CSS, JS, Python e PHP
+- 💡 O que já sei em Front-End: HTML, CSS, JS, Python e PHP
+- 💡 O que já sei em Back-End: Java, C#, Python, SQL
 - 📫 Como me contactar: joaobatistarn.05@gmail.com
 <div align="center">
   <a href="https://github.com/1NetoDev">
