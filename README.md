@@ -1,7 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=2500&pause=100&color=F7F6AA&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Muito+Prazer;%E2%98%85+Eu+sou+o+Neto+%E2%98%85" alt="Typing SVG" /></a>
-    
-#
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=2500&pause=100&color=F7F6AA&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Muito+Prazer;%E2%98%85+Eu+sou+o+Neto+%E2%98%85" alt="Typing SVG" /></a> #
   <p align="center">Estudante de Ciências da Computação na Universidade Cruzeiro do Sul. Atualmente estudo Java e me aprofundo em back-end.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </div>
@@ -16,6 +14,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <a href = "https://wa.link/focf7d"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/joaobatistaneto05" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 - 🔭 Procurando uma vaga de Back-End
 - 🎓 Graduando em Ciências da Computação (5/8 Semestre)
 - 🌱 Estudando Java, Spring, SQL e Docker
@@ -37,9 +36,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=2500&color=F7F6AA&center=true&multiline=true&width=300&height=40&lines=*+Github+Stats+*" alt="Typing SVG" /></a>
   <br>
-    
-  <a href="https://github.com/1NetoDev">
+    <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1NetoDev&hide_title=true&theme=moltack&show_icons=true&include_all_commits=false&locale=pt-br"/>
+    
   <img height="180em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=1NetoDev&layout=compact&count_private=true&theme=moltack&locale=pt-br"/>
 </div>
 
