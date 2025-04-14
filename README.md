@@ -36,9 +36,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=2500&color=F7F6AA&center=true&multiline=true&width=300&height=40&lines=*+Github+Stats+*" alt="Typing SVG" /></a>
   <br><br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=1NetoDev&hide_title=true&theme=moltack&show_icons=true&include_all_commits=false&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=1NetoDev&hide_title=true&theme=moltack&show_icons=true&include_all_commits=false&locale=pt-br"/>
     
-  <img height="170em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=1NetoDev&layout=compact&count_private=true&theme=moltack&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=1NetoDev&layout=compact&count_private=true&theme=moltack&locale=pt-br"/>
 </div>
 
 #
