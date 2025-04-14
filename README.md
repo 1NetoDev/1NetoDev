@@ -1,5 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=2500&pause=100&color=F7F6AA&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Muito+Prazer;%E2%98%85+Eu+sou+o+Neto+%E2%98%85" alt="Typing SVG" /></a> 
+<img align="center" alt="" src="./src/banner.mp4">
     
 #
   <p align="center">Estudante de Ciências da Computação na Universidade Cruzeiro do Sul. Atualmente estudo Java e me aprofundo em back-end.
