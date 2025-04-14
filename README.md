@@ -5,9 +5,26 @@
 - 🌱 Estudando Java, Spring, SQL e Docker
 - 💡 Possuo conhecimentos em HTML, CSS, JS, Python e PHP
 - 📫 Como me contactar: joaobatistarn.05@gmail.com
-- 😄 Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/1NetoDev">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=1NetoDev&theme=moltack&show_icons=true&locale=pt-br"/>
   <img height="220em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=1NetoDev&layout=compact&count_private=true&theme=moltack&locale=pt-br"/>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Neto-Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Neto-C#" height="55" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Neto-Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Neto-HTML" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Neto-CSS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Neto-JS" height="47" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+
+##
+<div> 
+  <a href="https://instagram.com/batistaa.05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaobatistarn.05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/joaobatistaneto05" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
