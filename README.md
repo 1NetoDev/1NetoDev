@@ -1,4 +1,28 @@
-## Olá! Muito Prazer Eu sou o Neto!😁
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=2500&pause=100&color=F7F6AA&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Muito+Prazer;%E2%98%85+Eu+sou+o+Neto+%E2%98%85" alt="Typing SVG" />
+    </a>
+  
+#
+  <p align="center">Estudante de Ciências da Computação na Universidade Cruzeiro do Sul. Atualmente estudo Java e me aprofundo em back-end.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+</div>
+
+<div>
+  <img aling="right" alt="Neto-Satoru"height="100" width="100" src="https://tenor.com/pt-BR/view/gojo-gojo-satoru-satoru-gojo-jjk-jujutsu-kaisen-gif-8571927971263676934"/>
+</div>
+
+#
+<h3 align="left">Fale comigo!</h3>
+<div align="left"> 
+  <a href="https://instagram.com/batistaa.05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaobatistarn.05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://wa.link/focf7d"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/joaobatistaneto05" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+
+
 
 - 🔭 Procurando uma vaga de Back-End
 - 🎓 Graduando em Ciências da Computação (5/8 Semestre)
@@ -22,12 +46,7 @@
 </div>
 
 ##
-<div> 
-  <a href="https://instagram.com/batistaa.05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaobatistarn.05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.link/focf7d"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/joaobatistaneto05" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1NetoDev/1NetoDev/output/github-contribution-grid-snake-dark.svg">
