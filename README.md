@@ -1,12 +1,13 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=2500&pause=100&color=F7F6AA&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Muito+Prazer;%E2%98%85+Eu+sou+o+Neto+%E2%98%85" alt="Typing SVG" /></a> 
-<img align="center" alt="" height="400px" width="900" src="./src/Neto.gif">
+</div>
+<img align="center" alt="" height="400px" width="900" src="./src/HeaderBanner.gif">
     
 #
 
   <p align="center">Estudante de Ciências da Computação na Universidade Cruzeiro do Sul. Atualmente estudo Java e me aprofundo em back-end.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-</div>
+
 
 #
 <img align="right" alt="" height="250px" src="./src/pixel.gif">
