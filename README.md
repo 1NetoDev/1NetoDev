@@ -7,11 +7,11 @@
 #
 <!-- Corpo Texto -->
   <p align="center">Estudante de Ciências da Computação na Universidade Cruzeiro do Sul. Atualmente estudo Java e me aprofundo em back-end.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
 
 # 
 <!-- Social -->
-<img align="right" alt="" height="250px" src="./src/pixel.gif">
+<img align="right" alt="" width="450" height="250px" src="./src/pixel.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=100&color=F7F6AA&multiline=true&repeat=false&width=300&height=40&lines=Fale+Comigo" alt="Typing SVG" /></a>
 <div align="left"> 
   <a href="https://instagram.com/batistaa.05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,8 +29,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 <!-- Conhecimentos -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=100&color=F7F6AA&multiline=true&repeat=false&width=300&height=40&lines=Meus+conhecimentos" alt="Typing SVG" /></a>
-<img align="right" alt="" height="250px" src="./src/city.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=27&duration=2500&pause=100&color=F7F6AA&vCenter=true&repeat=false&width=280&height=20&lines=Meus+Conhecimentos%3A" alt="Typing SVG" /></a>
+<img align="right" alt="" width="450" height="250px" src="./src/city.gif">
 <div align="left">
   <img align="center" alt="Neto-Python" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Neto-C#" height="48" width="48"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -39,15 +39,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="Neto-CSS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Neto-JS" height="47" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
-
-- APLICAÇÕES PARA INTERNET
-- ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES
-- PENSAMENTO COMPUTACIONAL | LÓGICA DE PROGRAMAÇÃO
-- PROGRAMAÇÃO DE COMPUTADORES (PYTHON)
-- SISTEMAS OPERACIONAIS
-- 
-- 
-
+    
+- Organização e Arquitetura de Computadores | S.O <br>
+- Pensamento Computacional | Lógica de Programação | POO | Mobile <br>
+- Modelagem de Dados | Estrutura de Dados | Banco De Dados <br>
+- Técnicas de Desenvolvimento de Algoritimos | Engenharia de software <br>
+- Sistemas Cliente/Servidor | Redes de Computadores <br>
+- Análise Projetos de Sistema | Segurança da Informação <br>
 
 #
 <!-- Github Status -->
