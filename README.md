@@ -7,7 +7,7 @@
 #
 <!-- Corpo Texto -->
   <p align="center">Sou <b> Estudante de Ciências da Computação </b> na Universidade Cruzeiro do Sul. Atualmente estudo Java e me aprofundo em back-end.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Sou Aspirante a Oficial R/2 da Arma de Comunicações formado pelo Centro preparatório de oficiais da reserva de São Paulo</p>
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Sou Aspirante a Oficial R/2 da Arma de Comunicações formado pelo Centro preparatório de oficiais da reserva de São Paulo </p>
 
 <div align="center">
   <table>
@@ -16,8 +16,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
       <td><b>🪖 Aspirante a Oficial </b></td>
     </tr>
     <tr>
-      <td><img width="300px" height="170px" src=".src/Neto1.jpg" ></td>
-      <td><img width="300px" height="170px" src=".src/AspNeto.jpg" > </td>
+      <td><img width="500px" height="270px" src="./src/Neto1.jpg"></td>
+      <td><img width="500px" height="270px" src="./src/AspNeto.jpg"></td>
     </tr>
   </table>
 </div>
