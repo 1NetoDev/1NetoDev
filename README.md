@@ -16,8 +16,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
       <td><b>🪖 Aspirante a Oficial </b></td>
     </tr>
     <tr>
-      <td><img src=".src/neto1.jpg" width="300px" height="170px"></td>
-      <td><img src=".src/aspNeto.jpg" width="300px" height="170px"> </td>
+      <td><img width="300px" height="170px" src=".src/Neto1.jpg" ></td>
+      <td><img width="300px" height="170px" src=".src/AspNeto.jpg" > </td>
     </tr>
   </table>
 </div>
