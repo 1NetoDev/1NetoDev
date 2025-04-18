@@ -12,7 +12,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 # 
 <!-- Social -->
 <img align="right" alt="" width="450" height="250px" src="./src/pixel.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=100&color=F7F6AA&multiline=true&repeat=false&width=300&height=40&lines=Fale+Comigo" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.demolab.com/demo/?size=27&duration=3000&color=FEFFBC&multiline=true&repeat=false&width=158&height=40&lines=Sobre+Mim%3A"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FEFFBC&multiline=true&repeat=false&width=158&height=40&lines=Sobre+Mim%3A" alt="Typing SVG" /></a>
 <div align="left"> 
   <a href="https://instagram.com/batistaa.05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaobatistarn.05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,14 +22,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 - 🔭 Procurando uma vaga de Back-End
 - 🎓 Graduando em Ciências da Computação (5/8 Semestre)
-- 🌱 Estudando Java, Spring, SQL e Docker
+- 🌱 Estudando Java, Spring, SQL e Docker.
 - 💡 O que já sei em Front-End: HTML, CSS, JS, Python e PHP
 - 💡 O que já sei em Back-End: Java, C#, Python, SQL
 - 📫 Como me contactar: joaobatistarn.05@gmail.com
 
 #
-<!-- Conhecimentos -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=27&duration=2500&pause=100&color=F7F6AA&vCenter=true&repeat=false&width=280&height=20&lines=Meus+Conhecimentos%3A" alt="Typing SVG" /></a>
+<!-- Faculdade -->
+<a href="https://readme-typing-svg.demolab.com/demo/?size=27&duration=3000&color=FEFFBC&multiline=true&repeat=false&width=158&height=40&lines=Faculdade%3A"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FEFFBC&multiline=true&repeat=false&width=158&height=40&lines=Faculdade%3A" alt="Typing SVG" /></a>
 <img align="right" alt="" width="450" height="250px" src="./src/city.gif">
 <div align="left">
   <img align="center" alt="Neto-Python" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
