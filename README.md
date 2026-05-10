@@ -34,7 +34,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 - 🔭 Procurando uma vaga de Back-End
-- 🎓 Graduando em Ciências da Computação (5/8 Semestre)
+- 🎓 Graduando em Ciências da Computação (7/8 Semestre)
 - 🌱 Estou Estudando Java, Spring e SQL
 - 💡 Leitor eclético, leio tudo que me interessar
 - 💪🏻 Treino musculação, calistenia, corrida e Jiu-Jitsu
